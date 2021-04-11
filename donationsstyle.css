@@ -148,9 +148,10 @@ body {
 /*head*/
 .head fieldset {
   border-radius: 8px;
-  border-color: 99AAB5;
+  border-color: #7289DA;
   padding: 10px;
   margin: 10px;
+  margin-bottom: 30px;
 } 
 
 .head-content {
@@ -161,4 +162,45 @@ body {
 .head-content h1 {
   color: #7289DA;
   margin: 5px;
+  margin-bottom: 15px;
+}
+
+.head-content h3 {
+  color: #ffff;
+}
+
+/*vélemény*/
+.velemeny fieldset {
+  border-radius: 8px;
+  border-color: #99AAB5;
+  padding: 10px;
+  margin: 10px;
+}
+
+.velemeny-content {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+.velemeny-content h1 {
+  color: #7289DA;
+  margin: 5px;
+  margin-bottom: 15px;
+}
+
+.velemeny-content li {
+  list-style: none;
+  color: #ffff;
+}
+
+.velemeny-button {
+  margin: 30px;
+}
+
+.velemeny-button a {
+  text-decoration: none;
+  background-color: #7289DA;
+  padding: 10px;
+  color: #ffff;
+  border-radius: 4px;
 }
