@@ -203,5 +203,10 @@ body {
   padding: 10px;
   color: #ffff;
   border-radius: 4px;
+  transition-duration: 0.4s;
 }
 
+.velemeny-button a:hover {
+  background-color: white;
+  color: #7289DA;
+}
