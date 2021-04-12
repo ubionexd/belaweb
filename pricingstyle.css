@@ -122,3 +122,21 @@ font-size: 16px;
 .card a:hover{
     text-decoration: none;
 }
+
+.button2 {
+  background-color: white;
+  transition-duration: 0.4s;
+}
+
+.button2:hover {
+  background-color: rgb(112, 204, 235);
+}
+
+.sups a {
+  font-family: "Roboto", sans-serif !important;
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+  background-color: transparent;
+  box-shadow: none;
+}
