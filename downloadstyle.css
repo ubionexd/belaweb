@@ -146,7 +146,7 @@ body {
 }
 
 /*oldal*/
-.wellcome h1 {
+.dls h1 {
     font-family: "Montserrat", sans-serif;
     text-align: center;
 }
@@ -161,4 +161,45 @@ body {
   background-color: #7289DA;
   border-radius: 5px;
   float: right;
+}
+
+.latest-v {
+    border-color: #99AAB5;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 40px;
+}
+
+.latest-v-content h2 {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: #7289DA;
+    margin: 10px;
+}
+
+.latest-v-content h4 {
+    font-family: "Montserrat", sans-serif;
+    text-align: left;
+    color: #99AAB5;
+    margin: 5px;
+}
+
+.latest-v-content li  {
+    list-style: none;
+    text-align: left;
+    margin: 2px;
+    margin-left: 20px;
+}
+
+.latest-v-content a {
+    text-decoration: none;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    transition-duration: 0.4s;
+}
+
+.latest-v-content a:hover {
+    color: #7289DA;
+    text-decoration: underline;
 }
