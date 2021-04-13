@@ -210,3 +210,9 @@ body {
   background-color: white;
   color: #7289DA;
 }
+
+.register {
+  background-color: #7289DA;
+  border-radius: 5px;
+  float: right;
+}
