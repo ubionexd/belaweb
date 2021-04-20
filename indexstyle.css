@@ -145,6 +145,8 @@ body {
     background-color: #2C2F33;
 }
 
+
+
 /*oldal*/
 .wellcome h1 {
     font-family: "Montserrat", sans-serif;
@@ -161,4 +163,5 @@ body {
   background-color: #7289DA;
   border-radius: 5px;
   float: right;
+  margin-left: 50px;
 }
