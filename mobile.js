@@ -14,4 +14,4 @@ menuClose.addEventListener("click", () => {
 /*lophatatlan képek*/
 
 document.addEventListener('contextmenu', event => event.preventDefault());
-document.getElementById('logo').setAttribute('draggable', false);
+document.getElementById('image').setAttribute('draggable', false);

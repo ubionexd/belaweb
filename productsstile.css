@@ -186,3 +186,36 @@ body {
   float: center;
 }
 
+/*body*/
+
+.os {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+  }
+  
+.os h1 {
+    color: white;
+    font-weight: 500;
+    margin: 50px;
+    margin-top: 100px;
+  }
+
+.os h3 {
+    color: white;
+    font-weight: 300;
+}
+
+.os a {
+    text-decoration: none;
+    background-color: #7289DA;
+    padding: 10px;
+    color: #ffff;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+    margin: 100px;
+  }
+
+.os li {
+    margin: 40px;
+    list-style: none;
+}
